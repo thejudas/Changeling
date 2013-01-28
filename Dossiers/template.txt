@@ -1,0 +1,24 @@
+Name: 
+Court: 
+Title/Rank:  
+Motely:
+Kith:
+Mein:
+Mask: 
+
+Goals:
+
+Positions:
+	-Eternal Summer: 
+	-Unfettered Halloween: 
+	-New Oath:
+
+Positive Relationships:	
+
+Negative Relationships:
+
+Weaknesses:
+
+Combat Information:
+
+Misc Information:

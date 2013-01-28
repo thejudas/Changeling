@@ -1,0 +1,28 @@
+Name: King Alerick
+Court: Summer
+Title/Rank: King
+Motely: ??
+Kith:
+Mein:
+Mask:
+
+Goals:
+	-Maintain control of city, apparently through any means necessary
+	-Force city to swear new oath
+
+Positions:
+	-Eternal Summer: +5
+	-Unfettered Halloween: -5?
+	-New Oath: +5
+
+Positive Relationships:	
+
+Negative Relationships:
+
+Weaknesses:
+
+Combat Information:
+	-wields flaming sword
+	-can cause jets of steam to erupt from ground
+
+Misc Information:

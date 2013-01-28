@@ -1,0 +1,27 @@
+Name: Archibald Moorley
+Court: Autumn
+Title/Rank: Head 
+Motely: ??
+Kith:
+Mein:
+Mask:
+
+Goals:
+	-Dethrone Aelerick and restore traditional rule of Santa Cruz
+
+Positions:
+	-Eternal Summer: -5
+	-Unfettered Halloween: +5
+	-New Oath: -?
+
+Positive Relationships:	
+
+Negative Relationships:
+
+Weaknesses:
+
+Combat Information:
+	-weilds staff
+	-shoots lightning
+
+Misc Information:

@@ -1,0 +1,25 @@
+Name: Three Graces
+Court: Spring
+Title/Rank: Head
+Motely: ??
+Kith:
+Mein:
+Mask:
+
+Goals:
+	-maintain status quo
+	
+Positions:
+	-Eternal Summer: +?
+	-Unfettered Halloween: -?
+	-New Oath: +?
+
+Positive Relationships:	
+
+Negative Relationships:
+
+Weaknesses:
+
+Combat Information:
+
+Misc Information:

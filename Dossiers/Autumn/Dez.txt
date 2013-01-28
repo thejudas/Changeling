@@ -1,0 +1,36 @@
+Name: Dez
+Court: Autumn
+Title/Rank: Initiate
+Motely: The Betrayed
+Kith: Wizened
+Mein:
+Mask: Sandy, patched together goblinlike
+
+Goals: 
+	-create life?
+
+Positions:
+	-Eternal Summer: -3
+	-Unfettered Halloween: -1
+	-New Oath: 0
+
+Positive Relationships:	
+	-Bunny: 1
+		-positive dealings
+	-Cobbled Together: 2
+		-has provided medical services
+	-Hedgehog and Silent Sarah: 2
+	-Emily: 1
+
+Negative Relationships:
+
+Weaknesses: 
+	- leaks glamour into surroundings (Jay doesn't know this)
+
+Combat Information:
+	-weilds magic? hammer
+	-can brawl
+	-dodegy
+
+Misc Information:
+	-can craft hedgespun

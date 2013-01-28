@@ -1,0 +1,28 @@
+Name: Finn
+Court: Courtless
+Title/Rank: -
+Motely: The Betrayed
+Kith: Water Elemental
+Mein: 
+Mask: 
+
+Goals:
+
+Positions:
+	-Eternal Summer: 
+	-Unfettered Halloween: 
+
+Positive Relationships:	
+
+Negative Relationships:
+
+Weaknesses:
+
+Combat Information:
+	-weilds water element like whip
+	-can cause tidal waves
+
+Misc Information:
+	-newest changeling in town
+	-can drive
+	-knowledge of the 'old ways'

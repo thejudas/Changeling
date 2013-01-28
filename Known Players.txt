@@ -4,6 +4,8 @@ Summer
 		-Possibly maintaining oath or contract to keep the Freehold Oath intact
 		-Controls all cold iron in the city
 	-Beach Combers
+		-Bronze
+			-Summer Court Champion
 		-Bunny
 			-positive dealing with Dez
 	-Knights Errant
@@ -11,6 +13,8 @@ Summer
 			-Beast
 		-Twins
 			-bone rattling power?
+		-Ogre
+			-brawled with Dez
 
 
 Autumn
@@ -20,18 +24,21 @@ Autumn
 			-Borrowing her herbalism book
 		-Emily
 			-First changeling we met
-			-positive relationship
-			-involved with Blue? not speaking
+			-positive involved
+			-relationship with Blue? not speaking
 	-Cooper House
 		-Hedgehog
-			-in chage of Asylum
+			-in charge of Asylum
 		-Silent Sarah
-			-in chage of Asylum
+			-in charge of Asylum
 	-Cobbled Together
+	-Eledy
+		-Archivist
+
 
 Spring
 	-3 Graces
-		-names
+		-names?
 		-knew about the new oath
 	-Bartlett
 		-takes responsibility for Giselle and Sister

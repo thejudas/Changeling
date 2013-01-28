@@ -8,6 +8,7 @@ Mask:
 
 Goals:
 	-maintain status quo
+	-avoid another massacre of the Spring Court by Hunt
 	
 Positions:
 	-Eternal Summer: +?
@@ -23,3 +24,4 @@ Weaknesses:
 Combat Information:
 
 Misc Information:
+	-Knew about the new oath and didn't tell us

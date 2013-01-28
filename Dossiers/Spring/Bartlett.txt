@@ -1,0 +1,27 @@
+Name: Bartlett
+Court: Spring
+Title/Rank: ?
+Motely: ?
+Kith:
+Mein:
+Mask: 
+
+Goals:
+
+Positions:
+	-Eternal Summer: -2
+	-Unfettered Halloween: ?
+	-New Oath: -1
+
+Positive Relationships:	
+	Glissade and Sister
+
+Negative Relationships:
+
+Weaknesses:
+
+Combat Information:
+
+Misc Information:
+	-Looks after Glissade and Sister
+	-Contact him by asking a butterfly

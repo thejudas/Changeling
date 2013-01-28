@@ -1,0 +1,27 @@
+Name: The Witch
+Court: Autumn
+Title/Rank: ?? Head of The Wood Wilders
+Motely: Wood Wilders
+Kith: ?
+Mein:
+Mask: Shifting, old woman to young woman
+
+Goals:
+
+Positions:
+	-Eternal Summer: -5
+	-Unfettered Halloween: +?
+	-New Oath: -?
+
+Positive Relationships:	
+
+Negative Relationships:
+	-Dez, he chopped down her tree
+
+Weaknesses:
+
+Combat Information:
+
+Misc Information:
+	-borrowed her herbalism book
+	-we have a chore for her, but I don't remember what it is

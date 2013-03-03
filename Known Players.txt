@@ -17,6 +17,7 @@ Summer
 			-brawled with Dez
 		-Brill
 			-initiate
+	-2 Oni like changelinges
 
 
 Autumn
@@ -43,24 +44,37 @@ Spring
 		-knew about the new oath
 	-Bartlett
 		-takes responsibility for Giselle and Sister
+		-can be called by butterfly
+		-negotiated peace between summer and autumn
 	-Gisselle
 	-Sister
 	-Patrick
 		-antlers
 	-Blue
 	-Sprocket
+	-Fontaine
+	-Woodvine
 
 Unknown
-	-Jasper
-	-Butch
-
 	-Road to Hell
 		-Batface
-	-Solio
-	-Tenthumbs
-		-doing coke
+		-Jasper
+			-Leader
+		-Butch
+		-Solio
+		-Tenthumbs
+			-doing/selling coke
+		-Squishy Joe
+			-Candlewax
+			-patrolled at sanctuary
+		-Ruba
+			-patrolled at sanctuary
 
 	-P. Rowan
 		-looking for pledgecrafting
+	-Uhrla
+		-horse woman, bow and arrow
 
-	-Trashheaps
+	-Hollow men
+	-The Grey Dutchess
+		-Winter Court?

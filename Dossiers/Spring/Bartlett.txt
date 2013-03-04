@@ -8,16 +8,6 @@ Mask:
 
 Goals:
 
-Positions:
-	-Eternal Summer: -2
-	-Unfettered Halloween: ?
-	-New Oath: -1
-
-Positive Relationships:	
-	Glissade and Sister
-
-Negative Relationships:
-
 Weaknesses:
 
 Combat Information:
@@ -25,3 +15,5 @@ Combat Information:
 Misc Information:
 	-Looks after Glissade and Sister
 	-Contact him by asking a butterfly
+	-had a female rival during pre court party
+	-major pledgecrafter in the city

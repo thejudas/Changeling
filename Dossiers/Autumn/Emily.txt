@@ -8,20 +8,12 @@ Mask:
 
 Goals:
 
-Positions:
-	-Eternal Summer: ?-
-	-Unfettered Halloween: ?
-	-New Oath: ?-
-
-Positive Relationships:	
-
-Negative Relationships:
-
 Weaknesses:
 
 Combat Information:
 
 Misc Information:
-	-not speaking with blue, maybe involved somehow
+	-not speaking with blue, romantically involved
 	-hid when we confronted the Dancer
-	-locked in cage by Witch
+	-locked in cage by Witch for breaking an oath
+	-Oathbreaker

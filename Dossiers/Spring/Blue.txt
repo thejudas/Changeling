@@ -1,0 +1,17 @@
+Name: Blue
+Court: Spring
+Title/Rank: Initiate? 
+Motely: None
+Kith:
+Mein:
+Mask: 
+
+Goals: 
+	-Reconcile with Emily
+
+Weaknesses:
+
+Combat Information:
+
+Misc Information:
+	-Had a falling out with Emily because she broke a promise

@@ -1,0 +1,68 @@
+Contracts of Fog
+
+1. Fog's Dampening Blanket
+This clause allows the Changeling to move without making any noise.
+Cost: 1 Glamour
+Dice Pool: Stealth + Wyrd
+Action: Instant
+Catch: The Changeling is moving through fog, natural or supernatural.
+Roll Results
+Dramatic Failure:
+The Changeling's attempts to move silently backfire, and the Changeling makes a conspicous noise. If he's moving through a house, he may knock over a vase or slam a door. Outside, he might step on and break a stick, or kick a tin can into the gutter.
+Success:
+The Changeling moves without making a sound. All rolls to percieve the Changeling's movement are halved, unless the Changeling is in direct line of sight. This effect last for one scene.
+Exceptional Success:
+For all intents and purposes, the Changeling makes no noise, and is impossible to percieve by hearing alone.
+
+2. Call the Water From the Air
+This clause allows the Changeling to summon a blanket of fog.
+Cost: 1 Glamour
+Dice Pool: Persuasion + Wyrd
+Action: Extended (5+ successes, each roll represents 5 minutes of persuading the fog)
+Catch: The Changeling is standing in a naturally formed body of water.
+Roll Results:
+Dramatic Failure:
+The extended roll fails. The Changeling cannot use this contract again until he spends an hour in natrual fog.
+Success:
+The character progresses towards calling the fog. The requisite number of successes is determined by the player beforehand. 5 successes produces a light fog in the Changeling's locale area. Each additional 5 successes increases the density of the fog, as well as the area of effect. At 25 successes, the fog blankets the area for several miles and reduces the visibility to only a few inches. This effect lasts for the scene.
+
+3. Fog the Mind
+This clause clouds the mind of of a target within whispering distance, making them more susceptible to manipulation.
+Cost: 1 Glamour + 1 Willpower
+Dice Pool: Manipulation + Wyrd
+Action: Instant
+Catch: The target of this clause is wearing a piece of damp clothing.
+Roll Results
+Dramatic Failure:
+The target becomes aware the the Changeling is attempting to manipulate them.
+Success:
+The Changeling passes a wisp of fog from his lips to the target's ear. The Changeling gets a +2 bonus on all Persuasion and Subterfuge rolls against the target for the rest of the scene.
+
+4. Formless Defense
+This clause causes the Changeling to become more insubstantial, imparting a defensive bonus as attacks swish through the blurred edges of the Changeling's form.
+Cost: 3 Glamour
+Dice Pool: Wits + Wyrd
+Catch: The Contract is evoked during a full moon, while the moon is completely obscured by clouds.
+Roll Results
+Dramatic Failure:
+The Changeling's attempt backfires, he takes 2 points of lethal damage as his form blurs and snaps back to rigidity.
+Success:
+The Changeling becomes insubstantial, increasing his defense by 1 for each 2 successes, rounded up.
+
+5. Become Fog
+This clause allows the Changeling to assume the form of Fog.
+Cost: 4 Glamour
+Dice Pool: Dexterity + Wyrd
+Catch: The Changeling is fleeing from mortal danger.
+Roll Results
+Dramatic Failure:
+The Fog rejects and burdens the Changeling, halving his Speed and Defense.
+Success:
+The character becomes completely insubstantial and can move with half again his speed. This lasts for a number of rounds equal to successes on the roll.
+
+Contracts of Darkness
+1: Pierce the Dark
+This Contract allows the Changeling to see through the dark.
+Cost: 1 Glamour
+Dice Pool: No roll is necessary. When Pierce the Dark takes effect, the Changeling is able to perceive things through the dark. 
+Catch: The character is wearing sunglasses.

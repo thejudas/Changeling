@@ -1,7 +1,7 @@
 Name: King Alerick
 Court: Summer
 Title/Rank: King
-Motely: ??
+Motley: ??
 Kith:
 Mein:
 Mask: Made of Bronze

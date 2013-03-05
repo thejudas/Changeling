@@ -69,6 +69,8 @@ Unknown
 			-patrolled at sanctuary
 		-Ruba
 			-patrolled at sanctuary
+		-Needles
+			-turned into monster during sanctuary, was dispatched
 
 	-P. Rowan
 		-looking for pledgecrafting

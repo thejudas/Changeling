@@ -1,82 +1,180 @@
-Summer 
-	-King Aelrick
-		-Controls Redwood Throne, City
-		-Possibly maintaining oath or contract to keep the Freehold Oath intact
-		-Controls all cold iron in the city
-	-Beach Combers
-		-Bronze
-			-Summer Court Champion
-		-Bunny
-			-positive dealing with Dez
-	-Knights Errant
-		-Fillian
-			-Beast
-		-Twins
-			-bone rattling power?
-		-Ogre
-			-brawled with Dez
-		-Brill
-			-initiate
-	-2 Oni like changelinges
+Summer Court 
+	
+	* King Alaric
+		- controls Redwood Throne, city
+		- possibly maintaining oath or contract to keep the Freehold Oath intact
+		- controls all cold iron in the city
+		- had us swear upon new throne (Ironbone Throne)
+		- is bound to peace treaty with Autumn and Spring
+		- has a connection to the Dancer
+		- is absent from Summer's hollow
+
+	- Beachcombers (motley name?)
+	
+		* Bronze
+			- Summer Court champion, prince, seems to rule the Court day-to-day 
+			- super combative
+			- encountered during Halloween ritual, challenged Fin, backed down
+			- encountered in Summer's hollow, humiliated by Fin
+		* Bunny
+			- Summer Court mistress-of-arms
+			- excellent swordsman
+			- positive dealing with Dez
+			- Halloween ritual, talked Bronze down from interfering
+			- Summer's hollow, crossed swords with Fin and lost (barely)
+
+	- Knights errant
+	
+		* Fillian
+			- Beast, guardian of Summer's hollow
+			- can take the shape of a bear
+			- powerful opponent, part of initiation to freehold
+			- Pledge ceremony, manipulated emotionally by Ben, attacked his teammates
+		* Twins (no name?)
+			- Pledge ceremony, bone rattling power, disrupted Ben's siren voice
+		* Ogre (no name?)
+			- powerful combatant
+			- Pledge ceremony, brawled with Dez and Jay
+		* Brill
+			- initiate
+
+	* 2 Oni-like changelings
 
 
-Autumn
-	-Archibald Moorley
-	-Wood Wilders
-		-Witch
-		-Emily
-			-First changeling we met
-			-positive involved
-			-relationship with Blue? not speaking
-	-Cooper House
-		-Hedgehog
-			-in charge of Asylum
-		-Silent Sarah
-			-in charge of Asylum
-	-Cobbled Together
-	-Eledy
-		-Archivist
+Autumn Court
+	
+	* Archibald Morley
+		- powerful changeling, high Wyrd
+		- can manipulate storms and lightning, wields a staff in combat
+		- former head of Autumn Court, broke with Alaric at the Pledge ceremony
+		- abdicated responsibility for Halloween protection ritual, put Santa Cruz at risk
+		- after Halloween, entered into treaty with Alaric, the Graces, Grey Duchess
+		- gave up his crown, charged Dez with finding his heir apparent
+	
+	- Wilders (motley name)
+		* the Witch
+			- probably the most powerful magic-user in the freehold
+			- gave Dez a geas after he chopped down her tree
+			- desires the sliver of moon kept by the Starlit Gentleman
+			- is a shape-shifter, lives in the woods, has power over redwoods
+			- tutoring Emily in magic
+			- is older than she appears (however she appears)
+		* Emily
+			- first changeling we met
+			- positively involved
+			- has a relationship with Blue that is failing
+			- is punished by the Witch by being caged in her hut
+			- is an oathbreaker (broke a vow of Truehearts with Blue)
+			- works at the Anthropology library on campus, was surprised at being discovered by Jay, regards it as her sanctuary
+	
+	- Cooper House (hub of Lost social activity)
+	
+		* Hedgehog
+			- proprieter and enforcer of neutrality
+			- in charge of giving asylum
+			- is an old Hedge-hunter (hence the name)
+			- believes in old tradition of questing stories
+			- generally friendly, maintains a magic bulletin board for messages
+			- has a personal Hedge gate in the bar
+		* Silent Sarah
+			- in charge of giving asylum
+			- is under an oath to be silent for a year
+			- is nimble, a sharpshooter
+			- Halloween, helped to defend the house from hedge beasts
+			
+	* Cobbled Together
+		- scarecrow-like Lost
+		- gifted healer and surgeon, refused service until we were sworn to the freehold
+		- Mask is that of a homeless man, was embarrassed to be seen by Dez
+	* Elodie
+		- archivist for the Court
+		- serious, requires service for extensive research/help
+		- helped Dez and Fin research the Starlit Gentleman and history of the freehold in Santa Cruz
+		- regarded as one of the major pledgemasters of the freehold
 
 
-Spring
-	-3 Graces
-		-names?
-		-knew about the new oath
-	-Bartlett
-		-takes responsibility for Giselle and Sister
-		-can be called by butterfly
-		-negotiated peace between summer and autumn
-	-Gisselle
-	-Sister
-	-Patrick
-		-antlers
-	-Blue
-	-Sprocket
-	-Fontaine
-	-Woodvine
+Spring Court
+	
+	* The Graces (3 of them)
+		- heads of the Spring Court, act as a gestalt entity
+		- knew about the new freehold oath before Alaric swore us to it
+		- asked the Witch to calm Archibald, who refused
+		- helped negotiate the Halloween treaty between the Courts
 
-Unknown
-	-Road to Hell
-		-Batface
-		-Jasper
-			-Leader
-		-Butch
-		-Solio
-		-Tenthumbs
-			-doing/selling coke
-		-Squishy Joe
-			-Candlewax
-			-patrolled at sanctuary
-		-Ruba
-			-patrolled at sanctuary
-		-Needles
-			-turned into monster during sanctuary, was dispatched
+	* Bartlett
+		- takes responsibility for Glissade and her hysterical sister
+		- can be called by butterfly, who he shares an association with
+		- negotiated the Halloween peace between the Courts
+		- is known as one of the major pledgemasters of the freehold
+		- is in league with Ben (non-public)
 
-	-P. Rowan
-		-looking for pledgecrafting
-	-Uhrla
-		-horse woman, bow and arrow
+	* Glissade
+		- went wandering in the woods after beach party, perhaps searching for her sister
+		- taken care of by Bartlett
+		- is mute/perhaps mad
+	
+	* Glissade's sister
+	
+	* Patrick
+		- gregarious, wears antlers
+	
+	* Blue
+		- has a truck, somewhat helpful
+		- in tempestuous relationship with Emily
+		- confessed feelings of sorrow and isolation, may be wavering in his Court allegiance
+	
+	* Sprocket
 
-	-Hollow men
-	-The Grey Dutchess
-		-Winter Court?
+	* Fontaine
+	
+	* Woodvine
+
+Unknown Allegiances
+	
+	- Road to Hell (Lost biker gang, only martial power besides Summer)
+		
+		* Jasper
+			- undisputed leader of the gang
+			- knew of Fin's arrival to Santa Cruz
+			- is extremely interested in obtaining iron weapons
+			- pressured Dez to do so in exchange for protection/guide at the Goblin Market, considering using force
+		
+		* Butch
+			- militant lesbian, second in command
+
+		* Batface
+			- insulted Dez, was beaten by Jasper until she apologized
+
+		* Solio
+		
+		* Tenthumbs
+			- doing/selling cocaine, the drug being pushed by Road to Hell
+
+		* Squishy Joe
+			- Candlewax
+			- patrolled at Halloween when we gave sanctuary to the freehold
+		
+		* Ruba
+			- patrolled at Halloween
+
+		* Needles
+			- Halloween, became monster as he attempted to penetrate the house's wards, was destroyed
+
+	* P. Rowan
+		- looking for pledgecrafting
+	
+	* Uhrla
+		- horse legs
+		- Halloween, helped defend the house with a bow and arrow
+
+	* Hollow men
+		- apparent servants to the Grey Duchess, silent
+
+	* The Grey Dutchess
+		- powerful changeling, respected
+		- extremely polite, arch sensibilities
+		- took offer of sanctuary at Halloween, seemed to observe our motley
+		- negotiated along with the other Courts for Archibald's abdication
+		- was amused at Ben's offers of tea
+		- seems to reside near the river, Ben was unable to make contact with her further
+		- perhaps a former Winter courtier?

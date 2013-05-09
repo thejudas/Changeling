@@ -1,28 +1,35 @@
 Name: Finn
-Court: Courtless
+Court: Summer
 Title/Rank: -
 Motely: The Betrayed
-Kith: Water Elemental
-Mein: 
-Mask: 
+Kith: Elemental - Waterborn
+Mein: green-skinned nymph with slightly webbed fingers
+Mask: gorgeous co-ed, black hair, green eyes, tall, broadshouldered, swimmer's build 
 
-Goals:
+Goals: - figure out how Summer is retaining its power
+       - learn Archibald's Storm contract
+       - forge a cool weapon
+       - move up in Summer hierarchy
 
 Positions:
-	-Eternal Summer: 
-	-Unfettered Halloween: 
+	-Eternal Summer: -1
+	-Unfettered Halloween: -3
 
-Positive Relationships:	
+Positive Relationships:	- Emily (flirtatious)
+			- Witch (courteous)
+			- the motley
 
-Negative Relationships:
+Negative Relationships: - Bronze (confrontation in Summer's Hollow)
 
-Weaknesses:
+Weaknesses: - past before Santa Cruz (nonpublic)
+	    - seeing his Keeper during Halloween
 
 Combat Information:
-	-weilds water element like whip
-	-can cause tidal waves
+	- high dot water Contract: created a water whip, caused tidal wave
+	- very proficient swordsman
+	- fast, quick to react
 
 Misc Information:
-	-newest changeling in town
-	-can drive
-	-knowledge of the 'old ways'
+	- newest changeling in town
+	- can drive, has muscle car
+	- knowledge of the 'old ways', is proficient at pledgecraft, occult

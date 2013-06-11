@@ -39,6 +39,7 @@ Summer Court
 			- initiate
 
 	* 2 Oni-like changelings
+	* Olen Feldspar - Summer Smith
 
 
 Autumn Court
@@ -178,3 +179,9 @@ Unknown Allegiances
 		- was amused at Ben's offers of tea
 		- seems to reside near the river, Ben was unable to make contact with her further
 		- perhaps a former Winter courtier?
+		
+Non-Changelings
+	- Governous Adelia
+		- Market Warden, 8ft tall, blue, true fae
+	- Lithquist the Weaver
+		- Spider weaver, deals in secrets
